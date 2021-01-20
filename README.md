@@ -1,10 +1,10 @@
 ## complex_ui
 
-A new Flutter project.
+A Complex Flutter UI project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a mid level point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
